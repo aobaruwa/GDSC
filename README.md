@@ -1,2 +1,2 @@
 # GDSC
-GDSC at UofO
+Google Developer Students Club at UofO
